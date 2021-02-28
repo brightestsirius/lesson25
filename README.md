@@ -13,3 +13,5 @@ git reset
 
 git rm --cached <file>
 git rm -r --cached <folder>
+
+git clone
