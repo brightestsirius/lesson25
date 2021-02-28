@@ -5,3 +5,8 @@
 3. git push origin master
 
 git status
+
+git reset
+1. --soft
+2. --mixed
+3. --hard
